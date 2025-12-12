@@ -10,6 +10,7 @@ User Can -
 6. Whishlist screen as well [x]
 7. Added a drop down menu [x]
 
+The following giphy shows current build progress for Milestone 2.
 ![Adobe Express - IMG_1289](https://github.com/user-attachments/assets/297a205d-1dfb-4226-bdd1-987cbc0b2906)
 
 

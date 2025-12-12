@@ -23,4 +23,5 @@ The following image is the issues we that you've been working on for this unit's
 
 
 The following image is the issues we're working on in the NEXT sprint.
-<img width="1435" height="626" alt="Screenshot 2025-12-11 at 8 39 40 pm" src="https://github.com/user-attachments/assets/94b53108-1a37-4356-9774-ea0aac3d506c" />
+<img width="1427" height="728" alt="Screenshot 2025-12-11 at 8 59 29 pm" src="https://github.com/user-attachments/assets/c5220bf9-0c58-43dd-b13b-c98445dedaac" />
+

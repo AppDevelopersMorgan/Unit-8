@@ -1,7 +1,6 @@
 User Stories 
 
-
-
+The following Issues was completed in this unit
 User Can -
 1. See future games - [x] 
 2. see details about the game [x]
